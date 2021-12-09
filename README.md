@@ -1,2 +1,2 @@
-# python_homework
+# python-homework
 Homework assignment 2
